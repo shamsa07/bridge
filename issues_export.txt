@@ -1,0 +1,55 @@
+{
+  "exported_at": "2026-02-21T08:18:47.922704+00:00",
+  "total": 3,
+  "query": "project = KAN ORDER BY updated DESC",
+  "issues": [
+    {
+      "key": "KAN-3",
+      "id": "10012",
+      "project": "KAN",
+      "summary": "Subtask 2.1",
+      "description": "",
+      "status": "К выполнению",
+      "issue_type": "Subtask",
+      "assignee": null,
+      "reporter": "Asim Azizov",
+      "priority": null,
+      "created": "2026-02-21T10:24:02.483+0400",
+      "updated": "2026-02-21T10:24:02.926+0400",
+      "labels": [],
+      "comments": []
+    },
+    {
+      "key": "KAN-2",
+      "id": "10011",
+      "project": "KAN",
+      "summary": "Task 2",
+      "description": "",
+      "status": "В работе",
+      "issue_type": "История",
+      "assignee": null,
+      "reporter": "Asim Azizov",
+      "priority": null,
+      "created": "2026-02-21T10:24:01.727+0400",
+      "updated": "2026-02-21T10:24:02.250+0400",
+      "labels": [],
+      "comments": []
+    },
+    {
+      "key": "KAN-1",
+      "id": "10010",
+      "project": "KAN",
+      "summary": "Task 1",
+      "description": "",
+      "status": "К выполнению",
+      "issue_type": "Задача",
+      "assignee": null,
+      "reporter": "Asim Azizov",
+      "priority": null,
+      "created": "2026-02-21T10:24:01.505+0400",
+      "updated": "2026-02-21T10:24:02.079+0400",
+      "labels": [],
+      "comments": []
+    }
+  ]
+}
